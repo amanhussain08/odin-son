@@ -3,7 +3,7 @@ module.exports = {
     title: `Gatsby Blog`,
     author: {
       name: `Aman Hussain`,
-      summary: `who lives in Allahabad and currebtly studying Engineering in Computer Science.`,
+      summary: `who lives in Allahabad and currently studying Engineering in Computer Science.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
