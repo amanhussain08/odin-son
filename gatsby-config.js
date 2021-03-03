@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Gatsby Blog`,
     author: {
       name: `Aman Hussain`,
       summary: `who lives in Allahabad and currebtly studying Engineering in Computer Science.`,
