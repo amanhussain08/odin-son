@@ -1,6 +1,6 @@
 ---
 title: My first Blog
-date: "2021-03-2T22:40:32.169Z"
+date: "2021-03-03T22:40:32.169Z"
 description: Sed Lyf.
 ---
 
