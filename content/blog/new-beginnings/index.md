@@ -1,7 +1,7 @@
 ---
 title: My first Post
 date: "2021-03-03T22:40:32.169Z"
-description: Sed Lyf.
+description: Sed Lyf!
 ---
 
 Far far away, behind the word mountains, far from the countries Vokalia and
