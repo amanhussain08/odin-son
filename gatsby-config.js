@@ -1,12 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Blog`,
+    title: `Personal Blog`,
     author: {
       name: `Aman Hussain`,
       summary: ``,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
       twitter: `panic_100`,
     },
